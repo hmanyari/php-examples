@@ -73,4 +73,4 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Tutorial
 
-https://github.com/hmanyari/php-examples.git
+https://blog.nubecolectiva.com/como-crear-un-crud-con-laravel-5-8-y-bootstrap-4-parte-1/
